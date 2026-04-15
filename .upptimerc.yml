@@ -3,12 +3,10 @@ owner: ashengstd # Your GitHub organization or username, where this repository l
 repo: StatusPage # The name of this repository
 
 sites:
-  - name: Serv00
-    url: https://ascka.serv00.net/
+  - name: Personal Website
+    url: https://tomorrowisinyourhands.fun/
   - name: Edge
     url: https://config.ascka.qzz.io/ui/
-  - name: Blog 
-    url: https://blog.tomorrowisinyourhands.fun/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
